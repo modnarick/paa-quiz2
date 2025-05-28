@@ -1,5 +1,5 @@
 # Quiz 2 PAA Github Report
-## <a href="https://drive.google.com/drive/folders/1ipBH7EJzn0XMr3aJ7-7kMA4xmh83MQBY?usp=sharing">Download the Game Here! </a> 
+## <a href="https://drive.google.com/file/d/1fw2EAV73iPlGKo0fmffcJKojFZ47Eofv/view?usp=sharing">Download the Game Here! </a> 
 
 <table align="center">
   <tr>
